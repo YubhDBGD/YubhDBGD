@@ -8,14 +8,12 @@
 
 ### 🏗️ Current projects
 
-#### Artlist
-This is a personal project that is very close to my heart. As a classically trained musician, I am passionate about making fine art events more accessible to everyone.  
-I am creating this web application aimed to showcase upcoming fine art events in the Greater Toronto Area. Artlist will allow users to easily browse events happening near them within the next few days and see the distance from their location.  
-My goal is to make it easy for anyone to discover and connect with their community through art.
+#### Personal websites for various musicians
+This is the main part of my freelancing career.
+With my experience as a musician, I feel very confident in designing websites for colleagues needing a professional online presence and looking for something unique to make a great first impression in the industry.
 
 Technology stack
-- mySQL & Knex
-- node.js & express
+- Figma
 - React
 - HTML & SASS
 - Javascript
@@ -23,17 +21,8 @@ Technology stack
 
 #### Dirigierakademie 
 Dirigierakademie is an organization created by conductors Matthew Lynch and myself. We aim to create workshops that connect professional orchestras to early career conductors, in a friendly and educational environment.  
-Currently the website is created through squarespace, but I intent to create a brand new website with form and payment feature. I will also use this opportunity to familiarize myself with another framework. 
-
-
-#### Freelancing work
-I am looking to build a few personal web applications for clients. Some features requested:
-- oauth user login 
-- blog posts with like and comment functionalities 
-- allow users to schedule, rearrange, and cancel appointments
-
+I have completed the design and build for this website, feel free to check it out: 📮 [Dirigierakademie](https://dirigierakademie.com)
 
 
 ### :construction: Learning
 - Typescript
-- Meteor
